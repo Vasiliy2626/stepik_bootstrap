@@ -1,0 +1,57 @@
+.nav-link{
+color: white! important;
+}
+
+.card_1{
+background-color: #E9ECEF;
+height: 342px;
+}
+
+.card-title_1{
+font: 300 72px Roboto,sans-serif;
+}
+
+.inline_1{
+margin-top: 40px;
+}
+
+.card-header{
+font:16px Roboto,sans-serif;
+height:48px;
+ padding-top:17px;
+}
+
+.card-body{
+line-height: 18.75px;
+}
+
+.card-title{
+ font: 400 20px Roboto,sans-serif;
+}
+
+.inline_2{
+ margin-top: 40px;
+}
+
+.table{
+ margin-top: 30px;
+}
+
+footer{
+ background-color: #F5F5F5;
+ height: 51px;
+display: flex;
+align-items: center;
+margin-top: 50px;
+}
+
+.footer_text{
+color: #6C757D;
+font: 16px Roboto,sans-serif;
+}
+
+.card-body_1{
+padding-top: 70px;
+ padding-left: 40px;
+}
+    
