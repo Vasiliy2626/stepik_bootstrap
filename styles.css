@@ -54,4 +54,10 @@ font: 16px Roboto,sans-serif;
 padding-top: 70px;
  padding-left: 40px;
 }
+
+@media screen and (max-width:576px){
+.card-title_1{
+    font:300 48px Roboto,sans-serif;
+}
+}
     
